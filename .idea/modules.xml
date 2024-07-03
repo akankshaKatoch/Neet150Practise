@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Neet150Practise.iml" filepath="$PROJECT_DIR$/Neet150Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiseOne/practiseOne.iml" filepath="$PROJECT_DIR$/practiseOne/practiseOne.iml" />
+    </modules>
+  </component>
+</project>
