@@ -1,3 +1,5 @@
+package ArrayQuestions;
+
 import java.util.Arrays;
 
 /*

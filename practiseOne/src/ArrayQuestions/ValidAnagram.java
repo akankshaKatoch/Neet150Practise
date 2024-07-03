@@ -1,3 +1,5 @@
+package ArrayQuestions;
+
 public class ValidAnagram {
     public static void main(String[] args) {
         String s = "racecare";

@@ -1,3 +1,5 @@
+package ArrayQuestions;
+
 public class DuplicateInteger {
 
     public static void main(String[] args) {
